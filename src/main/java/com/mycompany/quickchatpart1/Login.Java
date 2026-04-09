@@ -14,9 +14,7 @@ public class Login {
     private String firstName;
     private String lastName;
 
-    /**
-     * Default constructor.
-     */
+    
     public Login() {}
 
     /**
