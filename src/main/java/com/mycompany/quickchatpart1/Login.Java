@@ -4,7 +4,7 @@ package com.mycompany.quickchatpart1;
  * Provides methods to validate username, password, and cell phone number.
  *
  * @author Ayse Kevser Erdogan
- * @version 1.0
+ 
  */
 public class Login {
 
