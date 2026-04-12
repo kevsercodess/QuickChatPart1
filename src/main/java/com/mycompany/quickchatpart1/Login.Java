@@ -1,3 +1,6 @@
+// PROG5121 – Programming 1A
+// POE Part 1 – Registration and Login Feature
+// Student: Ayse Kevser Erdogan
 package com.mycompany.quickchatpart1;
 /**
  * Login class handles user registration and authentication.
